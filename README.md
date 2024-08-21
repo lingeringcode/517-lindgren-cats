@@ -7,3 +7,7 @@ Practice repo for 517
 ### Molly (The Queen)
 
 ### Xena (The Warrior) 
+
+Here's an image!
+
+![Alt text here](images/practice.png)
